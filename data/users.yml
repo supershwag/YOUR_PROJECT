@@ -1,4 +1,13 @@
-- name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+- name: 'Celine Dion'
+  city: 'Montréal, Quebec'
+  description: 'Home of divas'
+  github_nickname: supershwag
+- name: 'Barack Obama'
+  city: 'Chicago, USA'
+  description: 'Where the bulls are raging'
+  github_nickname: supershwag
+- name: 'Adele'
+  city: 'London, UK'
+  description: "Home of swag"
+  github_nickname: supershwag
+
